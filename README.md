@@ -129,7 +129,7 @@ The credentialed scan allowed OpenVAS to fully evaluate the system, which includ
 
 ## Remediation, Verification Scan, and Conclusion
 
-To remidiate the majority of the vulnerabilities found during the credentialed scan, the outdated software was uninstalled from the Windows 10 machine. Another credentialed scan was performed to verify the implemented remediations resolved the expected vulnerabilities. 
+To remediate the majority of the vulnerabilities found during the credentialed scan, the outdated software was uninstalled from the Windows 10 machine. Another credentialed scan was performed to verify the implemented remediations resolved the expected vulnerabilities. 
 
 Based on the scan, the remediations were successful and a downward trend in vulnerabilities was shown. By removing the outdated software, the amount of vulnerabilities found by OpenVAS was reduced by 91.
 
